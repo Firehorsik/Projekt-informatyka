@@ -1,0 +1,14 @@
+C:\Users\s37378\Projekt-informatyka\bin\Debug\net10.0\Projekt-informatyka.exe
+C:\Users\s37378\Projekt-informatyka\bin\Debug\net10.0\Projekt-informatyka.deps.json
+C:\Users\s37378\Projekt-informatyka\bin\Debug\net10.0\Projekt-informatyka.runtimeconfig.json
+C:\Users\s37378\Projekt-informatyka\bin\Debug\net10.0\Projekt-informatyka.dll
+C:\Users\s37378\Projekt-informatyka\bin\Debug\net10.0\Projekt-informatyka.pdb
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.AssemblyInfoInputs.cache
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.AssemblyInfo.cs
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.csproj.CoreCompileInputs.cache
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.dll
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\refint\Projekt-informatyka.dll
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.pdb
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\Projekt-informatyka.genruntimeconfig.cache
+C:\Users\s37378\Projekt-informatyka\obj\Debug\net10.0\ref\Projekt-informatyka.dll
