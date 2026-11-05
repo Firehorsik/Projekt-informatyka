@@ -8,6 +8,3 @@ Cel studiów to \*\*\*je zdać\*\*\*
 
 1. Siatkówka
 2. Gry
-
-
-
