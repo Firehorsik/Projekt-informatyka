@@ -5,7 +5,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: ./src/Projekt-informatyka/Projekt-informatyka.csproj
+  PROJECT_PATH: ./Projekt-informatyka.csproj
 
 jobs:
   build:
